@@ -6,3 +6,6 @@ pytorch  1.2
 python   3.7
 pylib
 
+## support
+### classification
+mnist
