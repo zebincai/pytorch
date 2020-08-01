@@ -1,0 +1,8 @@
+COM:
+  name: mnist
+
+
+DATA:
+  train_path: "./data"
+  valid_path: "./data"
+  test_path: "./data"
