@@ -47,3 +47,5 @@ if __name__ == "__main__":
     input = torch.randn(1, 1, 32, 32)
     out = net(input)
     print(out)
+
+    import torchvision.models.vgg
